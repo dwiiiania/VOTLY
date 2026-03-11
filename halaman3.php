@@ -6,16 +6,6 @@
     , initial-scale=1.0">
     <title>Document</title>
     <style>
-        body{
-            background : linear-gradient(to top right, #556E50, #A4D49A);
-        }
-        .container {
-            width : 1440px;
-            height : 1024px;
-            display : flex;
-            
-
-        }
     </style>
 </head>
 <body>
