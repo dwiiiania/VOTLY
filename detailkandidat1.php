@@ -50,6 +50,7 @@ body {
 
 
 .logo {
+
     font-size: 24px;
     color: var(--text-dark);
 }
