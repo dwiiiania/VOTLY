@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=
     , initial-scale=1.0">
     <title>Document</title>
+    <style>
+    </style>
 </head>
 <body>
     <h1>Halo Votly<h1>
         <p>selamat datang <p>
 </body>
-</html>
+</html> 
