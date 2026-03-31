@@ -152,7 +152,7 @@ body {
             <p>SMP NEGERI 02</p>
             <p>SUBAH</p>
         </div>
-        <img src="https://via.placeholder.com/50" alt="Logo" class="logo"> </header>
+        <img src="logo2.png" alt="Logo" class="logo"> </header>
 
     <main class="modal-container">
         <div class="profile-icon">

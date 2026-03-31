@@ -24,7 +24,7 @@
 
 body {
     background-color: var(--bg-main);
-    height: 100px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,10 +32,10 @@ body {
 
 .container {
     display: flex;
-    width: 95%;
-    height: 90vh;
+    width: 100%;
+    height: 100vh;
     background-color: var(--bg-main);
-    border-radius: 20px;
+    border-radius: 0px;
     overflow: hidden;
 }
 
@@ -188,7 +188,7 @@ body {
         <aside class="sidebar">
             <div class="logo-section">
                 <div class="logo">
-                    <img height ="150px" src="logovot.png" alt="">
+                    <img height ="150px" src="votly.png" alt="">
                 </div>
             </div>
             <nav class="menu">
@@ -204,13 +204,13 @@ body {
         <main class="main-content">
             <header class="header">
                 <span class="school-name">SMP Negeri 2 Subah</span>
-                <img src="logo2.png" alt="Logo Sekolah" class="school-logo">
+                <img src="logosk.jpeg" alt="Logo Sekolah" class="school-logo">
             </header>
 
             <section class="card-container">
                 <div class="candidate-card">
                     <div class="image-box">
-                        <img src="https://via.placeholder.com/300x400" alt="Lidia Permatasari">
+                        <img src="k2.jpeg" alt="Lidia Permatasari">
                     </div>
                     <div class="details">
                         <h1>Lidia Permatasari</h1>
