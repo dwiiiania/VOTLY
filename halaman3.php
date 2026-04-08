@@ -9,7 +9,6 @@
     </style>
 </head>
 <body>
-    <h1>Halo Votly<h1>
-        <p>selamat datang <p>
+    <h2>halllllllllllllloooooooooooooooooooo</h2>
 </body>
 </html> 
