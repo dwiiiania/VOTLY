@@ -143,7 +143,7 @@ header {
 
     <div class="sidebar">
         <div class="logo-section">
-            <div class="logo">🗳️ votly</div>
+            <div class="logovot"></div>
         </div>
         <nav>
             <ul>
