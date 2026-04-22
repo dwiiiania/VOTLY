@@ -24,9 +24,9 @@ body {
 
 .container {
     display: flex;
-    width: 90%;
-    max-width: 1100px;
-    height: 80vh;
+    width: 100%;
+    max-width: 1500px;
+    height: 100vh;
     background-color: #7a9474; /* Warna hijau utama */
     border-radius: 10px;
     overflow: hidden;
@@ -35,7 +35,7 @@ body {
 
 /* Sidebar */
 .sidebar {
-    width: 20%;
+    width: 15%;
     background-color: #c5d8c1; /* Hijau muda */
     padding: 20px;
     display: flex;
@@ -99,7 +99,7 @@ nav ul li.active {
     flex-direction: column;
 }
 
-header {
+header {z
     display: flex;
     justify-content: flex-end;
     margin-bottom: 20px;
@@ -160,7 +160,6 @@ h1 {
     background-color: #e2e8e2;
     padding: 20px;
     border-radius: 30px;
-    width: 30%;
     box-shadow: inset 0 0 10px rgba(0,0,0,0.05);
 }
 
@@ -203,8 +202,7 @@ h1 {
     <div class="container">
         <aside class="sidebar">
             <div class="logo">
-                <img src="https://via.placeholder.com/40" alt="Icon"> 
-                <span>votly</span>
+                <img src="votly.png" alt="Icon" height="150px"> 
             </div>
             <nav>
                 <ul>
@@ -235,25 +233,25 @@ h1 {
                         <div class="candidate-item">
                             <h3>Kandidat 1</h3>
                             <div class="photo-box">
-                                <img src="https://via.placeholder.com/150x200" alt="Kandidat 1">
+                                <img src="k1.jpeg" alt="Kandidat 1" >
                             </div>
-                            <button class="btn-data">Data Kandidat</button>
+                            <button class="btn-data"><a href="detailkandidat1.php">Data Kandidat</a> </button>
                         </div>
 
                         <div class="candidate-item">
                             <h3>Kandidat 2</h3>
                             <div class="photo-box">
-                                <img src="https://via.placeholder.com/150x200" alt="Kandidat 2">
+                                <img src="k2.jpeg" alt="Kandidat 2">
                             </div>
-                            <button class="btn-data">Data Kandidat</button>
+                           <button class="btn-data"><a href="detailkandidat2.php">Data Kandidat</a> </button>
                         </div>
 
                         <div class="candidate-item">
                             <h3>Kandidat 3</h3>
                             <div class="photo-box">
-                                <img src="https://via.placeholder.com/150x200" alt="Kandidat 3">
+                                <img src="k3.jpeg" alt="Kandidat 3">
                             </div>
-                            <button class="btn-data">Data Kandidat</button>
+                            <button class="btn-data"><a href="detailkandidat3.php">Data Kandidat</a> </button>
                         </div>
                     </div>
                 </div>

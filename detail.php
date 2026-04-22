@@ -224,8 +224,8 @@ body {
                             perjuangkan ke pihak sekolah demi kenyamanan kita belajar sehari-hari.
                         </p>
                         <div class="actions">
-                            <button class="btn-vote">Voting</button>
-                            <button class="btn-back">Kembali</button>
+                            <button class="btn-vote"><a href="verivikasi.php">Voting</a> </button>
+                            <button class="btn-vote"><a href="kandidat.php">kembali</a> </button>
                         </div>
                     </div>
                 </div>
