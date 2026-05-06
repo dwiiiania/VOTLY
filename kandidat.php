@@ -106,11 +106,9 @@ header {z
 }
 
 .header-info {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    color: white;
-    font-weight: bold;
+    float: right;
+    margin-left: 15px; /* Jarak dari teks di sebelah kiri */
+    margin-bottom: 15px; /* Jarak dari konten di bawah */
 }
 
 .school-logo {
