@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "rpl2-note-app";
+$db   = "rpl-vote";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
