@@ -99,7 +99,7 @@ nav ul li.active {
     flex-direction: column;
 }
 
-header {z
+header {
     display: flex;
     justify-content: flex-end;
     margin-bottom: 20px;
@@ -111,6 +111,7 @@ header {z
     gap: 10px;
     color: white;
     font-weight: bold;
+    justify-content: space-between;
 }
 
 .school-logo {
