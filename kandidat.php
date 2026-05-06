@@ -108,7 +108,7 @@ header {z
 .header-info {
     float: right;
     margin-left: 15px; /* Jarak dari teks di sebelah kiri */
-    margin-bottom: 15px; /* Jarak dari konten di bawah */
+    margin-bottom: 10px; /* Jarak dari konten di bawah */
 }
 
 .school-logo {
