@@ -106,9 +106,11 @@ header {z
 }
 
 .header-info {
-    float: right;
-    margin-left: 15px; /* Jarak dari teks di sebelah kiri */
-    margin-bottom: 10px; /* Jarak dari konten di bawah */
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-weight: bold;
 }
 
 .school-logo {
@@ -128,7 +130,7 @@ header {z
 .voting-card {
     background-color: #d1ddd1; /* Warna kartu abu-hijau */
     width: 95%;
-    height: 95%;
+    height: 90%;
     border-radius: 40px;
     padding: 30px;
     text-align: center;
@@ -224,7 +226,7 @@ h1 {
 
             <section class="voting-section">
                 <div class="voting-card">
-                    <h1>Voting Pemilihan Ketua Osis</h1>
+                    <h1>Hasil Votting Pemilihan Ketua Osis</h1>
                     <hr class="divider">
 
                     <div class="candidates-container">
@@ -233,7 +235,7 @@ h1 {
                             <div class="photo-box">
                                 <img src="k1.jpeg" alt="Kandidat 1" >
                             </div>
-                            <button class="btn-data"><a href="detailkandidat1.php">Data Kandidat</a> </button>
+                            <button class="btn-data">jumlah</button>
                         </div>
 
                         <div class="candidate-item">
@@ -241,7 +243,7 @@ h1 {
                             <div class="photo-box">
                                 <img src="k2.jpeg" alt="Kandidat 2">
                             </div>
-                           <button class="btn-data"><a href="detailkandidat2.php">Data Kandidat</a> </button>
+                           <button class="btn-data"><a >jumlah</a> </button>
                         </div>
 
                         <div class="candidate-item">
@@ -249,7 +251,7 @@ h1 {
                             <div class="photo-box">
                                 <img src="k3.jpeg" alt="Kandidat 3">
                             </div>
-                            <button class="btn-data"><a href="detailkandidat3.php">Data Kandidat</a> </button>
+                            <button class="btn-data">jumlah</button>
                         </div>
                     </div>
                 </div>
