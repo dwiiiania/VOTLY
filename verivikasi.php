@@ -168,8 +168,8 @@ header {
                 <p>Yakin dengan pilihan anda?<br>
                 setelah klik <strong>"simpan"</strong>, pilihan tidak dapat diubah.</p>
                 <div class="button-group">
-                    <button class="btn-batal">BATAL</button>
-                    <button class="btn-simpan">SIMPAN</button>
+                    <button class="btn-batal"><a href="kandidat.php">BATAL</a></button>
+                    <button class="btn-simpan"><a href="hasil-kandidat.php">SIMPAN</a></button>
                 </div>
             </div>
         </div>
