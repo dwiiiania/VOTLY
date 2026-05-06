@@ -99,7 +99,7 @@ nav ul li.active {
     flex-direction: column;
 }
 
-header {z
+header {
     display: flex;
     justify-content: flex-end;
     margin-bottom: 20px;
@@ -111,6 +111,7 @@ header {z
     gap: 10px;
     color: white;
     font-weight: bold;
+    justify-content: space-between;
 }
 
 .school-logo {
@@ -130,7 +131,7 @@ header {z
 .voting-card {
     background-color: #d1ddd1; /* Warna kartu abu-hijau */
     width: 95%;
-    height: 90%;
+    height: 95%;
     border-radius: 40px;
     padding: 30px;
     text-align: center;

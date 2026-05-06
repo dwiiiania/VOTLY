@@ -5,15 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Votly - Lidia Permatasari</title>
     <style>
-        :root {
-    --bg-light-green: #d1dbca;
-    --bg-main: #8ea381;
-    --sidebar-bg: #cad9c6;
-    --card-bg: #ccd6c2;
-    --text-dark: #4a5d45;
-    --btn-dark: #5e7156;
-    --logout-red: #4d0b0b;
-}
 
 * {
     margin: 0;
@@ -23,7 +14,7 @@
 }
 
 body {
-    background-color: var(--bg-main);
+    background-color: #8ea381;
     height: 100px;
     display: flex;
     justify-content: center;
@@ -34,7 +25,7 @@ body {
     display: flex;
     width: 95%;
     height: 90vh;
-    background-color: var(--bg-main);
+    background-color: #8ea381;
     border-radius: 20px;
     overflow: hidden;
 }
@@ -42,7 +33,7 @@ body {
 /* Sidebar Styling */
 .sidebar {
     width: 200px;
-    background-color: var(--sidebar-bg);
+    background-color: #cad9c6;
     display: flex;
     flex-direction: column;
 }
@@ -51,13 +42,13 @@ body {
 
 .logo {
     font-size: 24px;
-    color: var(--text-dark);
+    color: #4a5d45;
 }
 
 .menu-item {
     padding: 15px 25px;
     font-weight: bold;
-    color: var(--text-dark);
+    color: #4a5d45;
     cursor: pointer;
 }
 
@@ -78,7 +69,7 @@ body {
 }
 
 .btn-logout {
-    background-color: var(--logout-red);
+    background-color: #4d0b0b;
     color: white;
     border: none;
     padding: 10px 25px;
@@ -120,7 +111,7 @@ body {
 }
 
 .candidate-card {
-    background-color: var(--card-bg);
+    background-color: #ccd6c2;
     width: 100%;
     max-width: 900px;
     border-radius: 50px;
@@ -140,7 +131,7 @@ body {
 
 .details {
     flex: 1;
-    color: var(--text-dark);
+    color: #4a5d45;
 }
 
 .details h1 {
@@ -175,7 +166,7 @@ body {
     font-weight: bold;
     color: white;
     cursor: pointer;
-    background-color: var(--btn-dark);
+    background-color: #5e7156;
 }
 
 .btn-vote:hover, .btn-back:hover {
