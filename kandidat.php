@@ -218,7 +218,7 @@ h1 {
             <header>
                 <div class="header-info">
                     <span>SMP Negeri 2 Subah</span>
-                    <img src="https://via.placeholder.com/40" alt="Logo Sekolah" class="school-logo">
+                    <img src="logo2.png" alt="Logo Sekolah" class="school-logo">
                 </div>
             </header>
 
