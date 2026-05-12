@@ -186,13 +186,12 @@ body, html {
 
         <header class="top-header">
             <div class="logo-section">
-                <img src="https://cdn-icons-png.flaticon.com/512/927/927295.png" alt="Icon" class="icon-votly">
-                <span class="brand-name">votly</span>
+                <img src="votly.png" alt="Icon" height="200px">
             </div>
             <div class="school-section">
                 <span class="school-name">SMP NEGERI 02 SUBAH</span>
                 <div class="school-logo">
-                    <img src="https://via.placeholder.com/40" alt="Logo Sekolah">
+                    <img src="logo2.png" alt="Logo Sekolah">
                 </div>
             </div>
         </header>
