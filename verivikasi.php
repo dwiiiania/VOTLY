@@ -51,12 +51,12 @@ nav ul li.active {
 }
 
 .user-section {
-    padding: 20px;
+    margin-top: 350px;
     text-align: center;
 }
 
 .user-section p {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -65,9 +65,10 @@ nav ul li.active {
     background-color: #4d0f0f;
     color: white;
     border: none;
-    padding: 8px 25px;
+    padding: 10px 30px;
     border-radius: 20px;
     cursor: pointer;
+    width : 100%;
 }
 
 /* Main Content Styling */
