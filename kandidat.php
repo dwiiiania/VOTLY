@@ -131,7 +131,7 @@ header {
 .voting-card {
     background-color: #d1ddd1; /* Warna kartu abu-hijau */
     width: 95%;
-    height: 95%;
+    height: 90%;
     border-radius: 40px;
     padding: 30px;
     text-align: center;
