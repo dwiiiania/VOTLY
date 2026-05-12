@@ -205,10 +205,15 @@ body, html {
             </div>
             <div class="login-card">
                 <h1>Pemilihan Ketua Osis</h1>
-                <form>
-                    <input type="text" placeholder="masukkan nis" class="input-field">
-                    <input type="password" placeholder="masukkan kode" class="input-field">
+                <form action="./kandidat.php" method="post" class="flex flex-col gap-4 mt-6">
+                    <label for="email"></label>
+                    <input type="email" name="input_email" id="email" placeholder="masukkan email" class="input-field">
+
+                    <label for="password"></label>
+                    <input type="password" name="input_password" id="password" placeholder="masukkan kode" class="input-field">
+                    
                     <button type="submit" class="login-btn">LOGIN</button>
+                </form>
                 </form>
             </div>
         </main>
