@@ -206,8 +206,9 @@ h1 {
             </div>
             <nav>
                 <ul>
-                    <li class="active">Voting</li>
-                    <li>Hasil Voting</li>
+                    <li>Voting</li>
+                    <li class="active">Hasil Voting</li>
+                    
                 </ul>
             </nav>
             <div class="sidebar-footer">
