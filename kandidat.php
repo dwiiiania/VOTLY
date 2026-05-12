@@ -99,19 +99,16 @@ nav ul li.active {
     flex-direction: column;
 }
 
-header {
+header {z
     display: flex;
     justify-content: flex-end;
     margin-bottom: 20px;
 }
 
 .header-info {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    color: white;
-    font-weight: bold;
-    justify-content: space-between;
+    float: right;
+    margin-left: 15px; /* Jarak dari teks di sebelah kiri */
+    margin-bottom: 10px; /* Jarak dari konten di bawah */
 }
 
 .school-logo {
