@@ -161,7 +161,7 @@ header {
     <main class="main-content">
         <header>
             <div class="header-text">SMP NEGERI 02 SUBAH</div>
-            <div class="school-logo">🔵</div>
+            <div class="school-logo"></div>
         </header>
 
         <div class="modal-container">
