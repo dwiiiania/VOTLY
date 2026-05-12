@@ -186,7 +186,8 @@ body, html {
 
         <header class="top-header">
             <div class="logo-section">
-                <img src="logovot.png" width ="246px" alt="Icon" class="icon-votly">   
+                <img src="https://cdn-icons-png.flaticon.com/512/927/927295.png" alt="Icon" class="icon-votly">
+                <span class="brand-name">votly</span>
             </div>
             <div class="school-section">
                 <span class="school-name">SMP NEGERI 02 SUBAH</span>
@@ -204,7 +205,7 @@ body, html {
             </div>
             <div class="login-card">
                 <h1>Pemilihan Ketua Osis</h1>
-                <form action="./main.php" method="post" class="flex flex-col gap-4 mt-6">
+                <form>
                     <input type="text" placeholder="masukkan nis" class="input-field">
                     <input type="password" placeholder="masukkan kode" class="input-field">
                     <button type="submit" class="login-btn">LOGIN</button>
