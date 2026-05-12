@@ -210,7 +210,7 @@ h1 {
             </nav>
             <div class="sidebar-footer">
                 <p>HI VOTERS</p>
-                <button class="btn-logout">Log Out</button>
+            <button class="btn-logout"><a href="index.php">Log Out</a></button>
             </div>
         </aside>
 

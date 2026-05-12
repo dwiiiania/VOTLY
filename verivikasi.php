@@ -153,7 +153,7 @@ header {
         </nav>
         <div class="user-section">
             <p>HI VOTERS</p>
-            <button class="btn-logout">Log Out</button>
+            <button class="btn-logout"><a href="index.php">Log Out</a></button>
         </div>
     </div>
 
