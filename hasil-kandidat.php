@@ -212,7 +212,7 @@ h1 {
             </nav>
             <div class="sidebar-footer">
                 <p>HI VOTERS</p>
-                <button class="btn-logout">Log Out</button>
+                <button class="btn-logout"><a href="index.php">Log Out</a></button>
             </div>
         </aside>
 
@@ -243,7 +243,7 @@ h1 {
                             <div class="photo-box">
                                 <img src="k2.jpeg" alt="Kandidat 2">
                             </div>
-                           <button class="btn-data"><a >jumlah</a> </button>
+                           <button class="btn-data">jumlah</button>
                         </div>
 
                         <div class="candidate-item">
