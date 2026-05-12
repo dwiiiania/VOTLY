@@ -210,10 +210,10 @@ body {
             <section class="card-container">
                 <div class="candidate-card">
                     <div class="image-box">
-                        <img src="k3.jpeg" alt="Rahmatika Akb">
+                        <img src="k3.jpeg" alt="Kevin Sanjaya">
                     </div>
                     <div class="details">
-                        <h1>Rahmatika Akb</h1>
+                        <h1>Kevin Sanjaya</h1>
                         <h3>VISI DAN MISI</h3>
                         <p>
                             Menjadikan OSIS sebagai wadah yang asyik bagi seluruh siswa untuk mengembangkan bakat sekaligus 
