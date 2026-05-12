@@ -204,7 +204,7 @@ body {
         <main class="main-content">
             <header class="header">
                 <span class="school-name">SMP Negeri 2 Subah</span>
-                <img src="logosk.jpeg" alt="Logo Sekolah" class="school-logo">
+                <img src="logo2.png" alt="Logo Sekolah" class="school-logo">
             </header>
 
             <section class="card-container">
