@@ -147,7 +147,7 @@ body {
         <div class="circle c4"></div>
     </div>
 
-    <header class="header">
+    <header class="header">  
         <div class="school-info">
             <p>SMP NEGERI 02</p>
             <p>SUBAH</p>
@@ -166,7 +166,7 @@ body {
                     <p>Autentifikasi gagal</p>
                     <p>Silahkan kembali !!!</p>
                 </div>
-                <button class="retry-btn">COBA LAGI</button>
+                <button class="retry-btn"><a href="index.php">COBA LAGI</a></button>
             </div>
         </div>
     </main>
