@@ -149,7 +149,7 @@ header {
         <nav>
             <ul>
                 <li class="active">Voting</li>
-                <li>Hasil Voting</li>
+                <li><a href="hasil-kandidat.php">Hasil Voting</a></li>
             </ul>
         </nav>
         <div class="user-section">
@@ -161,7 +161,8 @@ header {
     <main class="main-content">
         <header>
             <div class="header-text">SMP NEGERI 02 SUBAH</div>
-            <div class="school-logo"></div>
+             <img height ="50px" src="logo2.png" alt="">
+            
         </header>
 
         <div class="modal-container">
