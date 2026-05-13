@@ -205,7 +205,7 @@ h1 {
             <nav>
                 <ul>
                     <li class="active">Voting</li>
-                    <li>Hasil Voting</li>
+                    <li><a href="hasil-kandidat.php">Hasil Voting</a></li>
                 </ul>
             </nav>
             <div class="sidebar-footer">
