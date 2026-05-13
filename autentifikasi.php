@@ -166,7 +166,13 @@ body {
                     <p>Autentifikasi gagal</p>
                     <p>Silahkan kembali !!!</p>
                 </div>
+<<<<<<< HEAD
                 <button class="retry-btn"><a href="index.php">COBA LAGI</a></button>
+=======
+
+                <button class="retry-btn"><a href="index.php">COBA LAGI</a></button>
+
+>>>>>>> ad27bc1517bfb373cf54d9952cd611e213b8220d
             </div>
         </div>
     </main>

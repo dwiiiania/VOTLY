@@ -206,7 +206,7 @@ h1 {
             </div>
             <nav>
                 <ul>
-                    <li>Voting</li>
+                    <li><a href="kandidat.php">Voting</a></li>
                     <li class="active">Hasil Voting</li>
                     
                 </ul>

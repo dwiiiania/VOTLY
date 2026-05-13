@@ -193,7 +193,7 @@ body {
             </div>
             <nav class="menu">
                 <div class="menu-item active">Voting</div>
-                <div class="menu-item">Hasil Voting</div>
+                <div class="menu-item"><a href="hasil-kandidat.php">Hasil Voting</a></div>
             </nav>
             <div class="logout-section">
                 <p>HI VOTERS</p>
