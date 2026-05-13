@@ -1,9 +1,10 @@
 <?php
-//echo $_POST['input_username'];
+//echo $_POST['input_email'];
 //echo $_POST['input_password'];
 //exit();
 include "config.php";
-$query = "SELECT * FROM users WHERE username='".$_POST['input_username']."'";
+$query = "SELECT * FROM users WHERE username='".$_POST['input_email']."'";
+
 //cek nis dan kode
 //nis: 248222
 //kode: 1122
