@@ -206,8 +206,8 @@ body, html {
                 <h1>Pemilihan Ketua Osis</h1>
                 <form action="./aksi-login.php" method="post" class="flex flex-col gap-4 mt-6">
                     <label for="username"></label>
-                    <input type="text" name="input_username" id="name" placeholder="masukkan username" class="input-field">
-
+                    <input type="email" name="input_email" id="email" placeholder="masukkan email" class="input-field">
+            
                     <label for="password"></label>
                     <input type="password" name="input_password" id="password" placeholder="masukkan kode" class="input-field">
                     
